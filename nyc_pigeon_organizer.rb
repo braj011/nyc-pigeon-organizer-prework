@@ -1,3 +1,3 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!
+  # need to collect each pigeon by name 
 end
