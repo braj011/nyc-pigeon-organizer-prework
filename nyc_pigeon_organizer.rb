@@ -10,7 +10,7 @@ def nyc_pigeon_organizer(data)
 data.each do |first_level, all_other|
   all_other.each do |category, array|
     puts category
-    binding.pry
+    # binding.pry
     array.each do |name|
       final[name] = {:color => [], :gender => [], :lives => []}
       end 
